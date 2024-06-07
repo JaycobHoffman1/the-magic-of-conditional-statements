@@ -36,6 +36,7 @@ elif num3 <= num1 and num3 <= num2:
 
 print(f'{largest_num} is the largest number and {smallest_num} is the smallest number!')
 
+
 # Task 3: Equality Check
 print('Equality Check')
 num1 = int(input('Enter a number: '))
